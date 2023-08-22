@@ -15,7 +15,7 @@ public class Principal {
 				+ "\n" +"-> ");
 		
 		escolha = sc.nextInt();
-		
+		//fazendo mais um teste 22/08/2023
 		System.out.println("----------------------------------------------------------------------------------------------------------");
 		if(escolha == 1) {
 			livro.setAdc(adiciona);
