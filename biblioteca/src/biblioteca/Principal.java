@@ -15,7 +15,7 @@ public class Principal {
 				+ "\n" +"-> ");
 		
 		escolha = sc.nextInt();
-	
+		//teste numero 2 para o git
 		System.out.println("----------------------------------------------------------------------------------------------------------");
 		if(escolha == 1) {
 			livro.setAdc(adiciona);
@@ -43,3 +43,4 @@ public class Principal {
 	System.out.println("Programa finalizado...................... :)");
 	}
 }
+//testando o git
