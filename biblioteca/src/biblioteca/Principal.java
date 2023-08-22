@@ -3,7 +3,7 @@ import java.util.ArrayList;
 import java.util.Scanner;
 import javax.swing.JOptionPane;
 public class Principal {
-
+//comentario de teste
 	public static void main(String[] args) {
 	Scanner sc = new Scanner(System.in);
 	adcadastro livro = new adcadastro();
@@ -37,7 +37,7 @@ public class Principal {
 			System.out.println("Digite um numero valido entre 1 e 5");
 			System.out.println("----------------------------------------------------------------------------------------------------------");
 		}
-	
+	//mexendo em linhas para testasr o git
 	}while(escolha != 5);
 	util.gravar(adiciona);
 	System.out.println("Programa finalizado...................... :)");
