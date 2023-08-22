@@ -3,7 +3,7 @@ import java.util.ArrayList;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 public class adcadastro {
-
+// fazendo o teste, estou enviando do meu notebook local para o github para atualizar e aparecer essas palavras
 Scanner sc = new Scanner(System.in);
 
 	public void setAdc(ArrayList<Cadastro> adiciona) {//adiciona os dados a lista
