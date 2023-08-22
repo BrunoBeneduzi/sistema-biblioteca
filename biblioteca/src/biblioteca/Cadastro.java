@@ -1,6 +1,6 @@
 package biblioteca;
 import java.io.Serializable;
-
+//teste parte 2
 public class Cadastro implements Serializable{
 private int id, paginas, ano, edicao;
 private String titulo, autor, editora;
